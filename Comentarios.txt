@@ -1,0 +1,35 @@
+**COMENTARIO**
+Debo decir que me cuesta mucho el diseño del PROGRAMA
+sin embargo pude lograrlo y eso ya es una superacion propia
+
+El programa simula el Torneo de Tres dias en la facultad de 
+Ciencias, teniendo diversos ejecutables, y diversas Clases 
+para poder realizarlo , como la simulacion del registro
+y un ejecutable para cada JUEGO en los tres dias, cada juego
+es diferente y con reglas distintas, sin embargo la Manera
+de sumar lo puntos para cada uno de los jugadores en los
+distintos juegos es la misma a la especificada.
+Cada Clase se programo con el objetivo de lograr la simulacion
+del torneo y de las mismas lo mejor posible.
+Por ultimo Se sumaran los puntos obtenidos de los participantes 
+para decidir a el ganador final en el ultimo dia , el programa
+fue realizado de acuerdo a lo aprendido en el curso.
+
+**COMENTARIOS IMPORTANTES**
+
+Clase Abstracta : Es importante explicar el por que de mi clase 
+abstracta y eso  es por que en un juego de Cartas el valor de las mismas
+como puntos puede varias un poco como en el BalckJack tienen
+un Valor en especifico en otras no asi que me resulto de utilidad
+de esta forma lo pense.
+
+Interfaz : Hice esta interfaz pensando en que se puede aplicar
+en objetos de AZAR como una moneda dando un ejemplo
+diferente a el de dado  asi que esta interfaz se puede
+ocupar más en un futuro por lo que si me resulto importante.
+
+**COMENTARIO FINAL**
+Este proyecto es dedicado a BTS <3.
+Más especifico a Taehyung.
+Es todo.
+GRACIAS.
